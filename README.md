@@ -8,4 +8,4 @@ I used purely HTML and CSS for this!
 
 
 
- 
+ ![QR code project](https://github.com/ElisaTurner/QRCodeProject/assets/88210013/4c13c641-6370-4254-84f7-a3277867816a)
