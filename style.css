@@ -1,0 +1,75 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body {
+    background-color:  hsl(212, 45%, 89%);
+    
+}
+
+img {
+     width: 90%;
+     margin: 15px;
+     border-radius: 8px;
+     display:inline-block
+}
+
+
+ .card {
+    margin-top: 150px;
+    background-color:  white;
+    border-radius: 8px;;
+    margin-right: auto;
+    margin-left: auto;
+    width: 20%;
+box-shadow: 10px 10px 5px hsl(220, 15%, 55%);
+}
+
+.container{
+    margin: auto;
+    align-content: center;
+    
+    
+}
+
+.title{
+    text-align: center;
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+    margin: 15px;
+
+}
+
+.subText{
+    text-align: center;
+    color: hsl(220, 15%, 55%);
+    margin: 15px;
+    padding-bottom: 30px;
+}
+
+@media screen and ( max-width: 800px) {
+    .card {
+        background-color:  white;
+        border-radius: 8px;;
+        margin-right: auto;
+         margin-left: auto;
+         width: 50%;
+    
+}
+
+img {
+    width: 90%;
+    margin: 15px;
+    border-radius: 8px;
+    display:inline-block
+}
+}
+     
+@font-face {
+font-family: Outfit;
+src: url(https://fonts.google.com/specimen/Outfit)
+
+}
+
+*{
+    font-family: Outfit;
+}
